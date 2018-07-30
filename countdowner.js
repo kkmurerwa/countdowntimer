@@ -1,6 +1,6 @@
-var n = 4;
-var min = 0;
-var hour = 4;
+var n = 0;
+var min = 5;
+var hour = 0;
 var zm = "",zs = "",zh = "";
 var x = setInterval(function(){
 		if (min <-0.99){
