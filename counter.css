@@ -1,0 +1,33 @@
+#demo{
+	font: arial;
+	font-size: 150px;
+	font-style: fantasy;
+	font-family: sans-serif;
+	text-align: center;
+}
+div{
+	font-size: 24px;
+	line-height: 32px;
+	box-sizing: border-box;
+	padding: 50px;
+	border: 1px solid #ccc;
+	border-radius: 12px;
+	background-color: lightgrey;
+}
+input{
+	width: 30%;
+	padding: 22px;
+	border: 1px solid #ccc;
+	border-radius: 6px;
+	margin-top: 6px;
+	margin-bottom: 16px;
+	font-size: 50px;
+	text-align: center;
+}
+#label{
+	font: arial;
+	font-size: 100px;
+	font-style: fantasy;
+	font-family: sans-serif;
+	text-align: center;
+}
